@@ -1,7 +1,7 @@
 import discord
 from discord.ext.commands import Bot
 
-TOKEN = "TOKENİNİZ"
+TOKEN = "MTIwMDUyMTEyMTU5OTA2MjEyNw.GuEU24.aNW1fbOHIOMuf3yibnArqRh1FRH4ZO3YyCzyGs"
 
 client = discord.Client()
 bot = Bot(command_prefix="!")
